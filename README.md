@@ -1,2 +1,2 @@
 # C-Projects
-Project for CSE 3430 class at OSU CSE
+Projects for CSE 3430 class at OSU CSE
